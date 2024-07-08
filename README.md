@@ -7,7 +7,7 @@
 Ensure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) (v14.0.0 or higher)
-- [npm](https://www.npmjs.com/) (v6.0.0 or higher) or [Yarn](https://yarnpkg.com/) (v1.22.0 or higher)
+- [npm](https://www.npmjs.com/) (v6.0.0 or higher)
 
 ### Installation
 
