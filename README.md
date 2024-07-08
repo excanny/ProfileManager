@@ -13,8 +13,8 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository:**
 
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/excanny/ProfileManager.git
+   cd ProfileManager
 
 2. **Install dependencies:**
 
@@ -23,6 +23,5 @@ Ensure you have the following installed on your machine:
 3. **Start the development server:**
 
     npm run dev
-
 
 4. **Open [http://localhost:5173](http://localhost:5173) in your browser.**
