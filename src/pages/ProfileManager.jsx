@@ -99,7 +99,7 @@ const ProfileManager = () => {
   return (
     <div className="w-100 container-fluid bg-light py-5" style={{ fontFamily: 'Montserrat, sans-serif' }}>
         <div className="bg-white shadow-sm rounded p-4">
-          <h1 className="text-center font-weight-bold ">Profile Manager</h1>
+          <h2 className="text-center font-weight-bold ">Profile Manager</h2>
             <div className="row mt-5">
               <div className="col-lg-6">
               <form onSubmit={handleSubmit}>
