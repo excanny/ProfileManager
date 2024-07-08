@@ -14,6 +14,7 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository:**
 
    git clone https://github.com/excanny/ProfileManager.git
+   <br>
    cd ProfileManager
 
 2. **Install dependencies:**
